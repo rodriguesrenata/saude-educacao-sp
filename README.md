@@ -2,6 +2,12 @@
 
 Análise da distribuição territorial de equipamentos públicos de educação e Unidades Básicas de Saúde (UBS) nos distritos do município de São Paulo.
 
+
+## Aplicação publicada
+
+**Acesse a aplicação:** [Saúde e Educação no Território](https://rodriguesrenata-saude-educacao-sp-app-trvymv.streamlit.app/)
+
+
 ## Problema e contexto
 
 Informações sobre população e equipamentos públicos estão disponíveis em diferentes fontes e formatos, o que dificulta sua análise conjunta e a comparação entre os territórios do município.
